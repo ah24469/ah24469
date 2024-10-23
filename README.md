@@ -1,4 +1,5 @@
-## Hi there 👋
+## My name is Ameer Hussain ##
+## I am currently a first year Maths student at Queen Mary University of London ##
 
 <!--
 **ah24469/ah24469** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
